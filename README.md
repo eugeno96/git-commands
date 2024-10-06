@@ -10,5 +10,10 @@ Permet d'initialiser un répertoire
 
 Permet d'ajouter un fichier ou des modifications dans le stagging
 
-##git push
+# git push
+
 Permet de pusher les modifications en linge
+
+# git log
+
+Permet de lister les modifications en local
